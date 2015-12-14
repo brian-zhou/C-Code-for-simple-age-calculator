@@ -8,6 +8,7 @@
     int birthmonth,birthyear;
     int currentmonth,currentyear;
     int agey,agem;
+    int test;
     /* Adding carriage returns between distinct blocks of code can aid readability */
     cout << "\n\n\t\t\tRaje\'s Age Calculator\n\n"; /* Used "\'" instead of just "'", since this will cause an error */
     cout << "Enter Your Birth Year(Eg:1989):";
